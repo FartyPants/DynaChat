@@ -6,7 +6,8 @@ WebUI extension for structured chat where you can change the history (previous r
 {WIP}
 
 This is another experiment at doing chat where each turn is saved as a history (that you can re-arrange, change, or remove)
-It comes from tweaking the BlockWrite - but more oriented as a chat.
+
+It comes from tweaking the BlockWrite - but more oriented as a chat interface.
 
 ![image](https://github.com/FartyPants/HistoryChat/assets/23346289/34568c1c-7136-4044-9151-e1785c0d41b6)
 
