@@ -38,7 +38,7 @@ save_proj_path = get_file_path("Projects")
 state_save = get_file_path("state.json")
 
 params = {
-        "display_name": "History Chat",
+        "display_name": "Dyna Chat",
         "is_tab": True,
         "selectA": [0,0],
         'projectname':"my_project",
