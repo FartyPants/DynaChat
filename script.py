@@ -56,7 +56,7 @@ params = {
 help_str = """
 **Help**
 
-This interface is for writing and generating dynamic blocks of text (for example scene-by-scene), that will be assembled into full text. At each generation all the previously written blocks will be inserted into LLM as a memory.
+This is trying to be a better chat interface where you can at anytime change the history (both prompt and response), re-generate, delete or shift around. The Full text is dynamically generated from the chat history.
 """
 
 
