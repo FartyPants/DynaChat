@@ -11,7 +11,7 @@ It comes from tweaking the BlockWrite - but more oriented as a chat interface.
 
 ![image](https://github.com/FartyPants/HistoryChat/assets/23346289/34568c1c-7136-4044-9151-e1785c0d41b6)
 
-So basically at any time you can change both prompt or the generated text by simply overwritting it, or regenerating it, or both, which will then change the history that goes to LLM for next turn.
+So basically at any time you can change both prompt or the generated text by simply overwritting it in the editors, or regenerating it again (for example tweaking the prompt), or both, which will then change the history that goes to LLM down the next turn.
 
 You can specify how much last history to include or just switch it off (briefly)
 
