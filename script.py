@@ -928,7 +928,7 @@ def ui():
                 gr_include_response = gr.Checkbox(value=params['include_response'], label='Include Response')
                 gr_user_tag = gr.Textbox(value = params['user_tag'], label = "User tag", lines=1,max_lines=1)   
                 gr_assistant_tag = gr.Textbox(value = params['assistant_tag'], label = "Assistant tag", lines=1,max_lines=1)
-                gr_full_json = gr.Checkbox(value=params['render_json'], label='Render JSONL (ignores above settings)')
+                gr_full_json = gr.Checkbox(value=params['render_json'], label='JSONL (ignores above settings)')
                 gr_full_systemprompt = gr.Textbox(value = params['system_prompt'], label = "JSONL System prompt", lines=1,max_lines=1)
                 gr_regenerate_full = gr.Button(value='Refresh')
             with gr.Column(scale=4):
