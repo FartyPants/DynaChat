@@ -8,6 +8,8 @@ WebUI extension for structured chat where you can change the history (previous r
 This is another experiment at doing chat where each turn is saved as a history (that you can re-arrange, change, or remove). Basically I'm looking for more useful/dynamic chat interface
 
 It comes from tweaking the BlockWrite - but more oriented as a chat interface.
+## Note
+I have a parallel project called [BlockWrite](https://github.com/FartyPants/BlockWriter) that is oriented on scene-by-scene story creation while uses simillar idea of dynamic history. 
 
 ![image](https://github.com/FartyPants/HistoryChat/assets/23346289/34568c1c-7136-4044-9151-e1785c0d41b6)
 
