@@ -1,0 +1,26 @@
+[
+  {
+    "outline": "History 1",
+    "prompt": "Hello",
+    "scenetext": "Hello! How can I assist you today?",
+    "is_summary": false
+  },
+  {
+    "outline": "History 2",
+    "prompt": "What is your name?",
+    "scenetext": "My name is AI Assistant. It's nice to meet you!",
+    "is_summary": false
+  },
+  {
+    "outline": "History 3",
+    "prompt": "That's great",
+    "scenetext": "Is there anything specific you would like me to help you with or any questions you have for me?",
+    "is_summary": false
+  },
+  {
+    "outline": "History 4",
+    "prompt": "Write me a song",
+    "scenetext": "Verse 1:\nIn the land of dreams and wonder, where imagination runs free,\nA little bird sings a sweet melody, high up in a tree.\nThe sun shines brightly on its feathers, as it flutters and flies,\nThrough skies of sapphire and gold, without ever saying goodbye.\n\nChorus:\nOh, let us all be like this little bird, spreading love and light,\nFlying high above our troubles, living life so right.\nFor in this world of endless possibilities, we hold the key,\nTo create a place of beauty, where happiness will be.\n\nVerse 2:\nUnderneath the canopy of leaves, a stream gently flows,\nReflecting the colors of the rainbow, as it goes.\nThe deer graze peacefully by its side, their antlers gleaming bright,\nAs they share the beauty around them, with all creatures in sight.\n\nChorus:\nOh, let us all be like these gentle creatures, living in harmony,\nSharing laughter and joy, leaving no one behind.\nFor in this world of endless connections, we are all intertwined,\nAnd together, we can make a difference, leaving our mark behind.\n\nBridge:\nSo let's sing our songs of hope and courage, let's dance beneath the moon,\nFor in every moment of our lives, there's something new to explore.\nLet's reach out to those who need us, lift each other up when we fall,\nAnd remember, we are all part of something greater, something beautiful after all.\n\nOutro:\nIn this magical realm of possibility, where dreams come true,\nWe must cherish every moment, and never forget what we can do.\nWith love in our hearts and determination in our souls, we'll soar,\nHigh above the clouds, creating a better tomorrow, forevermore.",
+    "is_summary": false
+  }
+]
