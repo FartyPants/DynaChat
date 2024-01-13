@@ -1,4 +1,4 @@
-# HistoryChat
+# DynaChat
 WebUI extension for structured chat where you can change the history (previous responses) at any time 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5MOB4M)
